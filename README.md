@@ -1,2 +1,2 @@
-# Recursion-problems
-Andrew Bashchak, student of KDU, group: IPZs-24-2
+# Recursion Problems
+Andrew Bashchak, student of KDU, group: SEs-24-2
